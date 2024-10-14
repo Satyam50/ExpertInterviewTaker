@@ -7,6 +7,25 @@
 
 # ExpertInterviewPrep
 
+![01](https://github.com/user-attachments/assets/9a9f4f61-74d6-42aa-9f36-d952803c17c6)
+
+
+![02](https://github.com/user-attachments/assets/45645105-3f49-4dc4-8ca8-8d68a313df3a)
+
+
+![03](https://github.com/user-attachments/assets/057c7319-d538-4419-835f-1a27ebfa0b69)
+
+
+![04](https://github.com/user-attachments/assets/8bfe422c-68ee-4278-b962-617b946292fb)
+
+
+![05](https://github.com/user-attachments/assets/7c0f9ac5-a3d4-49b7-9c68-ea1f1d8dea28)
+
+
+
+
+# ExpertInterviewPrep
+
 **ExpertInterviewPrep** is an advanced AI-powered interview preparation platform. It helps users prepare for job interviews by simulating interview scenarios and providing instant feedback on their responses.
 
 ## Project Overview
@@ -45,23 +64,6 @@ This document outlines the control flow of the application, including its key co
 - **AI Integration**: Gemini AI
 - **Backend**: Drizzle ORM
 - **Database**: Neon
-
-
-
-![01](https://github.com/user-attachments/assets/9a9f4f61-74d6-42aa-9f36-d952803c17c6)
-
-
-![02](https://github.com/user-attachments/assets/45645105-3f49-4dc4-8ca8-8d68a313df3a)
-
-
-![03](https://github.com/user-attachments/assets/057c7319-d538-4419-835f-1a27ebfa0b69)
-
-
-![04](https://github.com/user-attachments/assets/8bfe422c-68ee-4278-b962-617b946292fb)
-
-
-![05](https://github.com/user-attachments/assets/7c0f9ac5-a3d4-49b7-9c68-ea1f1d8dea28)
-
 
 
 
